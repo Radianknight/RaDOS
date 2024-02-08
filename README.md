@@ -1,3 +1,3 @@
 <html>
-<p> <font size="10"> RaDOS </font></p>
+<p style="color:red"> RaDOS </p>
 </html>

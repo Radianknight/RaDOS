@@ -8,6 +8,6 @@
 rm -rf RaDOS
 git clone https://github.com/Radianknight/RaDOS.git
 cd RaDOS
-python RaDOS
+python RaDOS.py
 
 ```
